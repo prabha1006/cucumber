@@ -39,7 +39,9 @@ public class LoginPage extends Base {
 			
 	
 			
-	
+	private void emp() {
+		System.out.println("Pachakili");
+	}
 		
 	
 	
